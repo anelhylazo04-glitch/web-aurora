@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magenta-dieffenbachia-321a4b.netlify.app
